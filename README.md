@@ -14,9 +14,11 @@
 ***
 ### :hammer_and_wrench: Languages and Tools :
 
-![](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-![](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg)
-![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ***
 ### Preview
