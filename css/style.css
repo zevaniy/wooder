@@ -961,23 +961,21 @@ body {
 }
 
 .no-webp .main-section__bg-image--left{
-  background: url("../img/main/main-bg-1.jpg") right no-repeat; }
+  background: url("../img/main/main-bg-1.jpg") right/cover no-repeat; }
 
 .main-section__bg-image--left {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
           flex: 1 1 50%;
-  background-size: cover;
 }
 
 .no-webp .main-section__bg-image--right{
-  background: url("../img/main/main-bg-2.jpg") left no-repeat; }
+  background: url("../img/main/main-bg-2.jpg") left/cover no-repeat; }
 
 .main-section__bg-image--right {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
           flex: 1 1 50%;
-  background-size: cover;
 }
 
 .main-section::after {
@@ -2317,8 +2315,8 @@ body {
 
 .webp .main-section__tooltip::before{ background: url(../img/icons/mouse.webp) 50% no-repeat; }
 
-.webp .main-section__bg-image--left{ background: url(../img/main/main-bg-1.webp) right no-repeat; }
+.webp .main-section__bg-image--left{ background: url(../img/main/main-bg-1.webp) right/cover no-repeat; }
 
-.webp .main-section__bg-image--right{ background: url(../img/main/main-bg-2.webp) left no-repeat; }
+.webp .main-section__bg-image--right{ background: url(../img/main/main-bg-2.webp) left/cover no-repeat; }
 
 .webp .media-section__bg-image{ background: url(../img/main/media-bg.webp) center no-repeat; }
